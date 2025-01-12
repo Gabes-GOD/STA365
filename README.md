@@ -1,0 +1,2 @@
+# STA365
+HW for STA365 W2025 at UofT
